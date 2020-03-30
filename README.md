@@ -1,4 +1,4 @@
-# Team name
+# Dream-team
 Team slogan 
 
 ## Members:
