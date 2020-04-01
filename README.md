@@ -1,5 +1,5 @@
 # Dream-team
-Team slogan 
+Dream-team 
 
 ## Members:
 * Member 1
