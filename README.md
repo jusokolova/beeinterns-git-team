@@ -1,9 +1,9 @@
 # Dream-team
-Team slogan 
+Dream-team 
 
-## Members:
-* Member 1
-* Member 2
-* Member 3
-* Member 4
-* Member 5
+## Члены команды:
+* Соколова Юлия
+* Тухватуллина Розалия
+* Ширяев Роман 
+* Перцева Елена
+* Ярославцев Илья
